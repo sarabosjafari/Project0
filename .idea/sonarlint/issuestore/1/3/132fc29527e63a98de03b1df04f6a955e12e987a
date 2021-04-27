@@ -1,0 +1,15 @@
+
+‚
+java:S4165""gRemove this useless assignment; "accountID" already holds the assigned value along all execution paths.(‘µè»ıÿÿÿÿ
+{
+java:S4165"eRemove this useless assignment; "balance" already holds the assigned value along all execution paths.(Ïùù
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­†÷íüÿÿÿÿ
+p	java:S116)"[Rename this field "TransactionsType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙËÁË
+Q
+java:S1854";Remove this useless assignment to local variable "balance".(Ïùù
+E
+java:S1656"/Remove or correct this useless self-assignment.(Ïùù
+X
+java:S1854""=Remove this useless assignment to local variable "accountID".(‘µè»ıÿÿÿÿ
+J
+java:S1656""/Remove or correct this useless self-assignment.(‘µè»ıÿÿÿÿ

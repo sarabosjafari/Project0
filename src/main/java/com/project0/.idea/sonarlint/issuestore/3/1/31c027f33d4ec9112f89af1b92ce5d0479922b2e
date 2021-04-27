@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊñŸñüÿÿÿÿ
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8¨“Î¯/
+L
+java:S1172
+"/Remove this unused method parameter "password".(­ª±Õ8—²Ò¯/
+b	java:S112
+"FDefine and throw a dedicated exception instead of using a generic one.(­ª±Õ8‘ÓÒ¯/
+M
+java:S2695"+This "PreparedStatement" has no parameters.(óæì¯ùÿÿÿÿ8‘ëÛ¯/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(îÍã8¨“Î¯/
+M
+java:S2695"+This "PreparedStatement" has no parameters.(Ë­Şóùÿÿÿÿ8àïÜ¯/
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(·Åˆşÿÿÿÿ8·Ï‚°/
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(«ËÑ¿ùÿÿÿÿ8·Ï‚°/
